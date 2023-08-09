@@ -1,0 +1,23 @@
+    1  nano bash1.sh
+    2  chmod a+x bash1.sh 
+    3  ./bash1.sh hello
+    4  ./bash1.sh hell
+    5  nano bash2.sh
+    6  chmod a+x bash2.sh 
+    7  ./bash2.sh
+    8  nano bash2.sh
+    9  ./bash2.sh
+   10  nano bash3.sh
+   11  chmod a+x bash3.sh
+   12  ./bash3.sh
+   13  ./bash3.sh green blue red
+   14  nano bash4.sh
+   15  chmod a+x bash4.sh
+   16  ./bash4.sh 
+   17  nano bash4.sh
+   18  nano bash5.sh
+   19  chmod a+x bash5.sh
+   20  nano bash5.sh
+   21  ./bash5.sh 
+   22  ./bash5.sh first second
+   23  history > history.txt
